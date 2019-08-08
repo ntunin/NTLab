@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "functions.h"
+#include "linear_search.h"
 
 void test_dsk_x2_0() {
     int size = 4;
